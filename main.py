@@ -2,6 +2,7 @@ ef = [0,0,0,0,0]
 eb =[0,0,0,0,0]
 c =  [0,0,0,0]
 
+
 ef[0] = int(input("U edge on front face: "))
 ef[1] = int(input("R edge on front face: "))
 ef[2] = int(input("D edge on front face: "))
